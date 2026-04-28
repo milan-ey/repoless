@@ -1,6 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p153424-e1601770.adobeaemcloud.com/bin/franklin.delivery/milan-ey/repoless/main"
-    type: "markup"
-    suffix: ".html"
-  
